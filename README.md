@@ -11,7 +11,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Open [https://f1-vl5m.onrender.com]
+Open (https://f1-project-oik8.onrender.com/)
 
 - Dashboard: `/`
 - Story: `/story`
